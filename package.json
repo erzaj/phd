@@ -22,7 +22,6 @@
     "randomstring": "^1.1.5",
     "readline-sync": "^1.4.10",
     "replace-string": "^3.0.0",
-    "telegraf": "^3.36.0",
     "url": "^0.11.0",
     "username-generator": "^1.1.0",
     "uuid": "^3.4.0"
